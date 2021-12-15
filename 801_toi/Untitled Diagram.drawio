@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-15T04:41:37.479Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="cfIbVtiQfyZ2bi69GWRC" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-15T04:50:25.417Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="oV8xW2mVNJVhudicMykY" version="15.9.6" type="github">
   <diagram id="a0ce7FRnkzHlPS7uPdeU" name="Page-1">
     <mxGraphModel dx="976" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -23,7 +23,10 @@
           <mxGeometry x="455" y="190" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VKRZZ7NYE5q5qL_KzZuO-9" value="Sản xuất ở Viêt Nam&lt;br&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Make in Vietnam&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="425" y="420" width="230" height="40" as="geometry" />
+          <mxGeometry x="450" y="420" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VKRZZ7NYE5q5qL_KzZuO-11" value="&lt;font color=&quot;#000000&quot;&gt;Công ty XYZ&lt;br&gt;Đia chỉ: Lý Sơn, Quảng&amp;nbsp; Ngãi&lt;br&gt;Khối lượng: 1kg&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#FF2F0F;" vertex="1" parent="1">
+          <mxGeometry x="380" y="270" width="300" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
