@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-15T04:59:18.252Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="hXht92VnZM4kA4uBrt9P" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-15T05:01:12.731Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="_S4swfvJX7pyOSDDvrCQ" version="15.9.6" type="github">
   <diagram id="a0ce7FRnkzHlPS7uPdeU" name="Page-1">
     <mxGraphModel dx="976" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
           <mxGeometry x="455" y="410" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VKRZZ7NYE5q5qL_KzZuO-11" value="&lt;font color=&quot;#000000&quot;&gt;Công ty XYZ&lt;br&gt;Đia chỉ: Lý Sơn, Quảng&amp;nbsp; Ngãi&lt;br&gt;Khối lượng: 1kg&lt;br&gt;Website: https://lecompany.co/&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#FF2F0F;" vertex="1" parent="1">
-          <mxGeometry x="405" y="260" width="300" height="70" as="geometry" />
+          <mxGeometry x="405" y="240" width="300" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
