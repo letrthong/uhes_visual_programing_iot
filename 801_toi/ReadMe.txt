@@ -1,4 +1,6 @@
-https://updater-neon-bot-dev-01.ngrok.io
+
+https://updater-neon-bot-dev-01.ngrok.io/app
+
 Step1:
 
 Step2:
