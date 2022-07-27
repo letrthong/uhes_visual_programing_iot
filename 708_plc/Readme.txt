@@ -3,3 +3,5 @@ https://www.daenotes.com/electronics/industrial-electronics/PLC-programable-logi
 
 
 https://new.siemens.com/it/it/prodotti/automazione/systems/industrial/simatic-controller/simatic-s7-1500.html 
+
+http://letrthong.blogspot.com/
