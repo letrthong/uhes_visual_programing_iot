@@ -5,3 +5,8 @@ Industrial Automation & Robotics
       Control Systems
       Robotics
 https://rheinturbo.com/industrial-automation-robotics#
+
+
+https://roboticsandautomationnews.com/2021/04/22/the-role-of-robotics-and-automation-in-industry-4-0/42638/ 
+https://millennialsconsulting.es/en/automation-and-industrial-robotics/ 
+https://www.conestogac.on.ca/fulltime/robotics-and-industrial-automation
