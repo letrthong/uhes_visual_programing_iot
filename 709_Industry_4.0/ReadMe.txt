@@ -14,3 +14,4 @@ https://www.conestogac.on.ca/fulltime/robotics-and-industrial-automation
 
 https://automation.omron.com/en/us/products/category/robotics
 https://new.siemens.com/global/en/products/automation.html
+https://new.siemens.com/global/en/products/automation/systems/industrial/io-systems.html
