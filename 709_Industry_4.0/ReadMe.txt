@@ -21,6 +21,9 @@ The Wireless LAN for demanding industrial applications
 https://new.siemens.com/global/en/products/automation/industrial-communication/industrial-wireless-lan.html
  Operational Technology (OT) and Information Technology (IT)
 
+
+https://new.siemens.com/global/en/company/stories/research-technologies/digitaltwin/virtual-commissioning.html
+
  Linux robust
 https://www.robustel.com/
 
