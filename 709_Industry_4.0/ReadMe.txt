@@ -28,3 +28,6 @@ https://roboticsbiz.com/top-10-industrial-automation-companies-in-the-world/
 8. Yokogawa
 9. Omron Automation
 10. Danaher
+
+https://builtin.com/robotics/robotics-companies-roundup
+Boston Dynamics
