@@ -21,6 +21,9 @@ The Wireless LAN for demanding industrial applications
 https://new.siemens.com/global/en/products/automation/industrial-communication/industrial-wireless-lan.html
  Operational Technology (OT) and Information Technology (IT)
 
+ Linux robust
+https://www.robustel.com/
+
 https://roboticsbiz.com/top-10-industrial-automation-companies-in-the-world/ 
 1. Siemens
 2. ABB
