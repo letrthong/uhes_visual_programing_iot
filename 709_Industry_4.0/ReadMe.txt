@@ -17,6 +17,8 @@ https://new.siemens.com/global/en/products/automation.html
 https://new.siemens.com/global/en/products/automation/systems/industrial/io-systems.html
 https://new.siemens.com/global/en/products/automation/industrial-communication.html 
 
+ Operational Technology (OT) and Information Technology (IT)
+
 https://roboticsbiz.com/top-10-industrial-automation-companies-in-the-world/ 
 1. Siemens
 2. ABB
