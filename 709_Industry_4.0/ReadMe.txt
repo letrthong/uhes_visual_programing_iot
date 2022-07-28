@@ -31,3 +31,6 @@ https://roboticsbiz.com/top-10-industrial-automation-companies-in-the-world/
 
 https://builtin.com/robotics/robotics-companies-roundup
 Boston Dynamics
+
+
+Electrical and Electronic Engineering 
