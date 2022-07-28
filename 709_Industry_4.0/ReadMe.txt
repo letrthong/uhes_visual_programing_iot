@@ -15,7 +15,7 @@ https://www.conestogac.on.ca/fulltime/robotics-and-industrial-automation
 https://automation.omron.com/en/us/products/category/robotics
 https://new.siemens.com/global/en/products/automation.html
 https://new.siemens.com/global/en/products/automation/systems/industrial/io-systems.html
-
+https://new.siemens.com/global/en/products/automation/industrial-communication.html 
 
 https://roboticsbiz.com/top-10-industrial-automation-companies-in-the-world/ 
 1. Siemens
