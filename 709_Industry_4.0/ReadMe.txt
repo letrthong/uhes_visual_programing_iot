@@ -50,3 +50,11 @@ Sensor:
 https://hit.sbt.siemens.com/RWD/app.aspx?RC=HQEU&lang=en&MODULE=Catalog&ACTION=ShowGroup&KEY=OPC_375720 
 PXC7
 QFA2050
+
+
+Product No.:
+QFA2050/MO
+Stock No.:
+S55720-S508
+Warranty
+5 Years
