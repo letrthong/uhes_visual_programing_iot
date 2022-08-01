@@ -1,0 +1,1 @@
+https://www.nist.gov/how-do-you-measure-it/how-do-smoke-detectors-work
