@@ -1,0 +1,1 @@
+https://www.theverge.com/2022/7/21/23271631/eve-motion-sensor-thread-matter-homekit-specs-release-date-price
