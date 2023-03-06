@@ -4,3 +4,5 @@ TPA2016D2
 https://github.com/Chostakovitch/TPA2016
 
 WM8960
+
+http://users.ece.utexas.edu/~bevans/courses/realtime/lectures/10_Data_Conversion/AP_Understanding_PDM_Digital_Audio.pdf
