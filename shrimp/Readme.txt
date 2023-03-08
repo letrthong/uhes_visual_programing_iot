@@ -9,3 +9,6 @@ Product size: 130x59x59mm
 Package Includes:
 
 1Piece DC Gear Motor
+
+
+https://www.fao.org/3/S4314E/s4314e0t.htm
