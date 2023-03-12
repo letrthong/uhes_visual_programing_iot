@@ -10,3 +10,11 @@ Khớp Nối Cứng
 https://www.thegioiic.com/product/khop-noi-cung
 
 https://www.thegioiic.com/rs775-dong-co-dc-12vdc-4500-rpm-truc-5mm
+
+
+Ống dẫn cám D90, Lò xo tải cám 68mm
+
+https://thietbichannuoi.com/san-pham/thiet-bi-thay-the/
+
+
+Động cơ DC giảm tốc JGB37-520 DC Geared Motor 
