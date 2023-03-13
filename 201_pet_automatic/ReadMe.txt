@@ -18,3 +18,5 @@ https://thietbichannuoi.com/san-pham/thiet-bi-thay-the/
 
 
 Động cơ DC giảm tốc JGB37-520 DC Geared Motor 
+
+https://www.fao.org/3/S4314E/s4314e0t.htm
