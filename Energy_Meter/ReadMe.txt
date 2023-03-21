@@ -5,3 +5,5 @@ https://learn.microsoft.com/en-us/dotnet/api/iot.device.adc.ina219?view=iot-dotn
 https://learn.microsoft.com/en-us/dotnet/api/iot.device.adc.ina219?view=iot-dotnet-latest
 
 https://iotprojectsideas.com/iot-energy-meter-using-ina219-sensor-esp8266-blynk/
+
+https://www.best-microcontroller-projects.com/ina219.html
