@@ -12,3 +12,6 @@ http://www.bdtic.com/en/linear/TimerBlox
 
 
 https://hshop.vn/products/mach-dieu-khien-toc-do-dong-co-pwm-dc-motor-speed-controller-10a
+
+https://github.com/barulicm/PiPCA9685/tree/master/include/PiPCA9685
+PCA9685
