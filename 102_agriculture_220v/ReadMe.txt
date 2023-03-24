@@ -1,0 +1,1 @@
+Hộp nhựa PLC 115x90x40mm 1 Đầu
