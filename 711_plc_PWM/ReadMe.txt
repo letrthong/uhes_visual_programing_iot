@@ -9,3 +9,6 @@ https://www.digikey.com/en/products/detail/analog-devices-inc/LTC6992HS6-2-WTRMP
 
 
 http://www.bdtic.com/en/linear/TimerBlox
+
+
+https://hshop.vn/products/mach-dieu-khien-toc-do-dong-co-pwm-dc-motor-speed-controller-10a
