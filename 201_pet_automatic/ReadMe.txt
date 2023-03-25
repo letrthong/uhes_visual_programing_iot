@@ -17,10 +17,20 @@ https://www.thegioiic.com/rs775-dong-co-dc-12vdc-4500-rpm-truc-5mm
 https://thietbichannuoi.com/san-pham/thiet-bi-thay-the/
 
 
+Lò xo nén phi 35 (sợi 4 ly dài 12,2cm)
+
 Động cơ DC giảm tốc JGB37-520 DC Geared Motor 
 
 https://www.fao.org/3/S4314E/s4314e0t.htm
 
 
 https://www.fancom.com/pigs
+
+
+https://freshbydesign.com.au/aquaponic-aquaculture-products/fish-feeders/arvo-tec-td2000-feeder/
+https://freshbydesign.com.au/product-category/hose-and-tubing/
+
+
+auto feeding line
+https://freshbydesign.com.au/aquaponic-aquaculture-products/fish-feeders/fiap-solar-feeder/
  
