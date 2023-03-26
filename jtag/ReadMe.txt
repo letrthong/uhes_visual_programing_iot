@@ -1,0 +1,1 @@
+https://www.thegioiic.com/mach-nap-j-link-v8-jtag-segger
