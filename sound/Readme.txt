@@ -18,3 +18,5 @@ https://github.com/piratfm/codec2_m4f
 
 
 https://github.com/PaxInstruments/STM32CubeF2/blob/master/Middlewares/ST/STM32_Audio/Addons/PDM/pdm_filter.h
+
+https://devzone.nordicsemi.com/f/nordic-q-a/75483/nrfx-based-pdm-to-pcm-implementation-i2s-example
