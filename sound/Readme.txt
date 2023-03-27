@@ -6,3 +6,7 @@ https://github.com/Chostakovitch/TPA2016
 WM8960
 
 http://users.ece.utexas.edu/~bevans/courses/realtime/lectures/10_Data_Conversion/AP_Understanding_PDM_Digital_Audio.pdf
+
+ PDM to PCM for dB 
+ https://community.st.com/s/question/0D53W000019De7XSAS/is-it-possible-to-get-32bit-data-from-pdm-to-pcm-library 
+ https://devzone.nordicsemi.com/f/nordic-q-a/28248/get-amplitude-db-from-pdm
