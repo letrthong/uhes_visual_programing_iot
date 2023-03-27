@@ -14,3 +14,4 @@ http://users.ece.utexas.edu/~bevans/courses/realtime/lectures/10_Data_Conversion
 https://infocenter.nordicsemi.com/index.jsp?topic=%2Fcom.nordic.infocenter.nrf52832.ps.v1.1%2Fpdm.html&cp=2_1_0_42&anchor=concept_tyv_452_yr 
 
 105 dB
+https://github.com/piratfm/codec2_m4f
