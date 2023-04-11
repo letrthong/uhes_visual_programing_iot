@@ -11,12 +11,12 @@ Ngõ Vào
 	- RL1: 12V
 	- GND: 0V
 Ngõ ra
-	- NC 
-		Ở mức AC-L(Live)     khi Relay ở mức thấp
-		Ở mức AC-N(Neutral)  khi Relay ở mức cao
-	- NO
-		Ở mức AC-L(Live)     khi Relay ở mức cao 
-		Ở mức AC-N(Neutral)  khi Relay ở mức thấp
+	- NC (Normally Closed)
+		Ở mức AC-L(Live) khi ngõ vào relay RLx ở mức OV
+		Không có điện áp khi ngõ vào relay RLx ở mức 12V
+	- NO (Normally Open) 
+		Không có điện áp khi ngõ vào relay RLx ở mức OV 
+		Ở mức AC-L(Live) khi ngõ vào relay ở mức 12V
 	- AC-N 
 		Ở mức AC-N(Neutral)  
 
