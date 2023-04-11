@@ -5,7 +5,7 @@ Dùng background.png làm nền và mờ lại
 Nội dung lấy trong giống như bên dưới
 -------------------------------------
 Ngõ vào
-	- AC-L(Live)-> 220V         - DC: 12v, 24V
+	- AC-L(Live)-> 220V  - DC: 12v, 24V
 	- AC-N(Neutral)-> Dây nguội- DC: 0V
 Điều khiển relay với G2R-1-E-DC12 
 	- RLx: 12V - GND: 0V
