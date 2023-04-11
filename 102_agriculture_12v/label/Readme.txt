@@ -7,7 +7,7 @@ Nội dung lấy trong giống như bên dưới
 Ngõ Vào
 	-  AC-L(Live)-> 220V         - DC: 12v, 24V
 	-  AC-N(Neutral)-> Dây nguội - DC: 0V
-Điều khiển relay với G2R-1-E/12VDC
+Điều khiển relay với G2R-1-E-DC12 
 	- RLx: 12V - GND: 0V
 Ngõ ra
 	- NC(Normally Closed)
