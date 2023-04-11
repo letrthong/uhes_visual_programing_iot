@@ -1,0 +1,15 @@
+Ngõ Vào
+	-  AC-L(Live) :   AC: 220V      - DC: 12v, 24V
+	-  AC-N(Neutral): AC: Dây nguội - DC: 0V
+Điều khiển  Relay với 12V  
+	- RL1: 12V
+	- GND: 0V
+Ngõ ra
+	- NC 
+		Ở mức AC-L(Live)     khi Relay ở mức thấp
+		Ở mức AC-N(Neutral)  khi Relay ở mức cao
+	- NO
+		Ở mức AC-L(Live)     khi Relay ở mức cao 
+		Ở mức AC-N(Neutral)  khi Relay ở mức thấp
+	- AC-N 
+		Ở mức AC-N(Neutral)  
