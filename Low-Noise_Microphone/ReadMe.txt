@@ -35,3 +35,8 @@ The maximum volume level for personal listening devices; a very loud radio, ster
 Shouting or barking in the ear 	110 	Hearing loss possible in less than 2 minutes
 Standing beside or near sirens 	120 	Pain and ear injury
 Firecrackers 	140–150 	Pain and ear injury
+
+MAX9814 
+https://learn.adafruit.com/adafruit-agc-electret-microphone-amplifier-max9814/overview
+
+
