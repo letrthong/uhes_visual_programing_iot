@@ -1,1 +1,3 @@
-https://shopee.vn/product-i.88613264.15801794329?utm_campaign=-&utm_content=12896-d5498e882d0d4a7db76e460416ba2966--102922&utm_medium=affiliates&utm_source=an_17209090000&utm_term=96ryhrf4zf1h
+Bóng đèn halogen sợt đốt chén 50w, 12V hoặc 220V, Đuôi đèn GX5.3, Chén MR16 - Điện nước gia dụng Hoàng Kim
+
+Bóng đèn halogen chén 12v 50w PHILIPS
