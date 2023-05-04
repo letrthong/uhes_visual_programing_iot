@@ -1,0 +1,1 @@
+https://www.u-blox.com/en/narrowband-iot-nb-iot
