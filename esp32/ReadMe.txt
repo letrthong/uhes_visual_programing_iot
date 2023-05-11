@@ -18,8 +18,8 @@ https://myhomethings.eu/en/instant-pushsafer-notification-from-esp32/
 https://www.electronicwings.com/esp32/esp32-bluetooth-getting-started
 
 https://www.electronicwings.com/esp32/max7219-7-segment-display-interfacing-with-esp32
-
-
+ 
+ 
 https://www.electronicwings.com/esp32/stepper-motor-interfacing-with-esp32
 
 
@@ -50,3 +50,10 @@ https://deviot.vn/tutorials/esp32.66047996/esp32-web-server-phan-3.71502247
 
 
 https://microdigisoft.com/esp32-wifi-manager-to-manage-ssid-and-password-using-eeprom/
+
+
+
+
+
+https://linuxhint.com/esp32-software-reset-arduino-ide/
+https://randomnerdtutorials.com/solved-reconnect-esp32-to-wifi/
