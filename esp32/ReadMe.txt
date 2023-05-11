@@ -21,3 +21,9 @@ https://www.electronicwings.com/esp32/max7219-7-segment-display-interfacing-with
 
 
 https://www.electronicwings.com/esp32/stepper-motor-interfacing-with-esp32
+
+
+Reconnect WiFi
+https://linuxhint.com/reconnect-esp32-lost-wifi-connection/
+
+https://randomnerdtutorials.com/esp32-useful-wi-fi-functions-arduino/
