@@ -47,3 +47,6 @@ https://randomnerdtutorials.com/esp32-access-point-ap-web-server/
 
 
 https://deviot.vn/tutorials/esp32.66047996/esp32-web-server-phan-3.71502247
+
+
+https://microdigisoft.com/esp32-wifi-manager-to-manage-ssid-and-password-using-eeprom/
