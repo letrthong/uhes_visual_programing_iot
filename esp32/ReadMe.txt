@@ -44,3 +44,6 @@ https://randomnerdtutorials.com/esp32-bluetooth-classic-arduino-ide/
 // Access point 
 
 https://randomnerdtutorials.com/esp32-access-point-ap-web-server/
+
+
+https://deviot.vn/tutorials/esp32.66047996/esp32-web-server-phan-3.71502247
