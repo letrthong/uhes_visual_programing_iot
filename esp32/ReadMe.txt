@@ -10,3 +10,14 @@ https://hshop.vn/products/kit-rf-thu-phat-wifi-ble-risc-v-esp32-c3-nodemcu-c3-32
 
 
 espressif8266
+
+
+https://myhomethings.eu/en/instant-pushsafer-notification-from-esp32/
+
+
+https://www.electronicwings.com/esp32/esp32-bluetooth-getting-started
+
+https://www.electronicwings.com/esp32/max7219-7-segment-display-interfacing-with-esp32
+
+
+https://www.electronicwings.com/esp32/stepper-motor-interfacing-with-esp32
