@@ -34,3 +34,8 @@ https://randomnerdtutorials.com/esp32-bluetooth-classic-arduino-ide/
 
 
 https://randomnerdtutorials.com/vs-code-platformio-ide-esp32-esp8266-arduino/
+
+
+Serial Bluetooth Terminal
+https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal&hl=en
+https://randomnerdtutorials.com/esp32-bluetooth-classic-arduino-ide/
