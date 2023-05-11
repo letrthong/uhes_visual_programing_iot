@@ -27,3 +27,10 @@ Reconnect WiFi
 https://linuxhint.com/reconnect-esp32-lost-wifi-connection/
 
 https://randomnerdtutorials.com/esp32-useful-wi-fi-functions-arduino/
+
+
+Bluetooth
+https://randomnerdtutorials.com/esp32-bluetooth-classic-arduino-ide/
+
+
+https://randomnerdtutorials.com/vs-code-platformio-ide-esp32-esp8266-arduino/
