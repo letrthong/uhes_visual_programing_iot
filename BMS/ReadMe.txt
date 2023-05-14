@@ -23,3 +23,6 @@ MPS- Master Production Schedule
 
 https://instrumentationtools.com/top-100-plc-projects-list/
 https://instrumentationtools.com/plc-program-for-tank-heating-control-using-heater/
+
+
+https://sigmasurplus.com/siemens-e223748-lfr-motion-connect-plc-cable/
