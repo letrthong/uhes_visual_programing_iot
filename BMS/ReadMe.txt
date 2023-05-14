@@ -19,3 +19,7 @@ https://hshop.vn/products/mach-chuyen-giao-tiep-uart-ttl-rs485-v2
 
 
 MPS- Master Production Schedule
+
+
+https://instrumentationtools.com/top-100-plc-projects-list/
+https://instrumentationtools.com/plc-program-for-tank-heating-control-using-heater/
