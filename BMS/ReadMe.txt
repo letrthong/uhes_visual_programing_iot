@@ -26,3 +26,6 @@ https://instrumentationtools.com/plc-program-for-tank-heating-control-using-heat
 
 
 https://sigmasurplus.com/siemens-e223748-lfr-motion-connect-plc-cable/
+
+
+http://shahrulnizam.com/esp32-project-iot-plc-switch/
