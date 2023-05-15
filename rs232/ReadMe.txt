@@ -6,3 +6,6 @@ MAX485
 
 
 https://www.vbk-technology.de/en/plc-programming/
+
+
+http://shahrulnizam.com/esp32-project-iot-plc-switch/
