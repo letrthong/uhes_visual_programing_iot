@@ -5,3 +5,16 @@ https://colab.research.google.com/github/google-coral/tutorials/blob/master/trai
 
 
 https://www.tensorflow.org/install
+
+
+
+https://learn.microsoft.com/en-us/azure/iot-central/core/howto-configure-rules
+{
+   "property": "temperature",
+   "operator" : "="
+   "value": 30.0
+   "action": "btn01On"
+}
+
+
+"action": "telegram" "email" , "webhook", "btn01On"
