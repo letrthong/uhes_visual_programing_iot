@@ -1,3 +1,3 @@
-stairway light.
+#agriculture
 
-https://www.wevolver.com/article/contactor-vs-relay-electrically-operated-switches-understanding-the-differences
+   window.location.hash= "#agriculture"
