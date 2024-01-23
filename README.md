@@ -26,3 +26,7 @@ LabVIEW
 https://www.hioki.cn/system/product_attachments/pdfs/000/000/092/original/2300E5-88E_web.pdf
 
 MODULE RF 433Mhz:
+
+
+https://www.emsflower.de/de/pflanzen/
+https://vnexpress.net/ben-trong-nha-kinh-rong-bang-80-san-bong-4703523.html
